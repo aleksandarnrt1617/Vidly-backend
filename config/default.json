@@ -4,4 +4,3 @@
   "port": "3900",
   "requiresAuth": true
 }
-mongodb+srv://aca98:123@cluster0.bfsm8.mongodb.net/cluster0
